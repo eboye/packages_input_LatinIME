@@ -38,7 +38,7 @@
          U+017C: "ż" LATIN SMALL LETTER Z WITH DOT ABOVE
     <string name="morekeys_z">&#x017E;,&#x017A;,&#x017C;</string>-->
     <string name="morekeys_z">&#x017E;</string>
-         END: More keys definitions for Serbian (Latin) -->
+         <!--END: More keys definitions for Serbian (Latin)
     <!-- BEGIN: More keys definitions for Serbian (Cyrillic) -->
     <!-- U+0437: "з" CYRILLIC SMALL LETTER ZE -->
     <string name="keyspec_south_slavic_row1_6">&#x0437;</string>
