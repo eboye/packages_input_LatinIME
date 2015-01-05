@@ -9,3 +9,14 @@ TODO
 =======================
 
 Add support for dictionary
+
+How to install
+=======================
+
+It's been tested only on AICP ROM by myself, but should work on all AOSP ROMs.
+
+https://drive.google.com/open?id=0By2xUaAC752oWDVJNjZvM25RRzA&authuser=0
+
+You can download the app from this link and install it via adb:
+
+adb install -r LatinIME.apk
