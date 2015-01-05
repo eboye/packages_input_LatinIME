@@ -20,3 +20,5 @@ https://drive.google.com/open?id=0By2xUaAC752oWDVJNjZvM25RRzA&authuser=0
 You can download the app from this link and install it via adb:
 
 <code>adb install -r LatinIME.apk</code>
+
+Note: you are doing it at your own risk. Please do a NAND or LatinIME backup before installing.
